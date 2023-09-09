@@ -1,4 +1,4 @@
-# Latihan php
+# Latihan PHP
 Link Tutorial PHP : https://www.youtube.com/@sandhikagalihWPU/
 
 Link Download Composer : https://getcomposer.org/
