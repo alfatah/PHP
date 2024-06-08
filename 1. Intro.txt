@@ -1,0 +1,65 @@
+## Pengenalan PHP
+
+### Apa Itu PHP?
+
+PHP, yang merupakan singkatan dari "PHP: Hypertext Preprocessor," adalah bahasa pemrograman skrip sisi server yang dirancang khusus untuk pengembangan web. PHP adalah salah satu bahasa pemrograman paling populer di dunia, terutama karena kemampuannya untuk diintegrasikan dengan HTML dan basis data, serta kemudahan penggunaannya.
+
+### Sejarah PHP
+
+PHP dikembangkan oleh Rasmus Lerdorf pada tahun 1994 sebagai serangkaian skrip sederhana untuk melacak pengunjung ke situs pribadinya. Sejak itu, PHP telah berkembang pesat dan menjadi salah satu bahasa pemrograman utama untuk pengembangan web. Versi-versi penting dari PHP meliputi:
+- **PHP/FI** (1995): Versi pertama yang dirilis ke publik.
+- **PHP 3** (1997): Versi ini merupakan perombakan besar dan membuat PHP lebih modular.
+- **PHP 4** (2000): Memperkenalkan Zend Engine, yang meningkatkan performa dan stabilitas.
+- **PHP 5** (2004): Menambahkan dukungan yang lebih baik untuk pemrograman berorientasi objek.
+- **PHP 7** (2015): Peningkatan performa signifikan dengan penggunaan Zend Engine III.
+- **PHP 8** (2020): Memperkenalkan JIT (Just-In-Time) compiler untuk peningkatan performa lebih lanjut.
+
+### Fitur Utama PHP
+
+1. **Scripting Sisi Server**: PHP terutama digunakan untuk mengembangkan skrip yang berjalan di server. Ketika pengguna mengakses halaman web yang ditulis dalam PHP, server memproses skrip tersebut dan menghasilkan HTML untuk dikirim ke browser pengguna.
+2. **Gratis dan Sumber Terbuka**: PHP adalah perangkat lunak bebas yang dapat diunduh dan digunakan oleh siapa saja. Ketersediaannya sebagai perangkat lunak sumber terbuka memungkinkan kontribusi dari komunitas global.
+3. **Mudah Dipelajari dan Digunakan**: PHP memiliki sintaks yang mudah dipahami dan dipelajari, terutama bagi mereka yang memiliki latar belakang dalam bahasa pemrograman seperti C atau Java.
+4. **Kompatibilitas Luas**: PHP dapat dijalankan pada berbagai sistem operasi seperti Windows, Linux, dan macOS, serta kompatibel dengan sebagian besar web server termasuk Apache dan Nginx.
+5. **Fleksibilitas**: PHP mendukung berbagai macam basis data seperti MySQL, PostgreSQL, Oracle, dan SQLite. Selain itu, PHP dapat digunakan untuk berbagai macam tugas, dari menghasilkan halaman web dinamis hingga mengelola file, mengirim email, dan banyak lagi.
+
+### Contoh Kode PHP Sederhana
+
+Berikut adalah contoh skrip PHP sederhana yang menampilkan "Hello, World!" di browser:
+
+```php
+<?php
+echo "Hello, World!";
+?>
+```
+
+### Penggunaan PHP dalam Pengembangan Web
+
+PHP sering digunakan dalam kombinasi dengan HTML untuk menghasilkan halaman web dinamis. Sebagai contoh, berikut adalah bagaimana PHP dapat diintegrasikan dengan HTML:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contoh PHP</title>
+</head>
+<body>
+    <h1><?php echo "Halo, Dunia!"; ?></h1>
+</body>
+</html>
+```
+
+Ketika halaman ini diakses, server akan memproses kode PHP dan menggantinya dengan hasil eksekusi, yang dalam hal ini adalah "Halo, Dunia!".
+
+### Framework dan Alat PHP Populer
+
+Untuk meningkatkan produktivitas dan mengembangkan aplikasi yang lebih kompleks, banyak pengembang menggunakan framework PHP seperti:
+
+- **Laravel**: Framework PHP yang sangat populer yang menawarkan sintaks elegan dan berbagai alat untuk pengembangan aplikasi web.
+- **Symfony**: Framework PHP yang sangat fleksibel dan dapat dikustomisasi, sering digunakan untuk proyek besar.
+- **CodeIgniter**: Framework yang ringan dan mudah digunakan, ideal untuk pengembangan aplikasi sederhana.
+
+Selain itu, pengembang PHP sering menggunakan alat seperti Composer, yang merupakan manajer dependensi untuk PHP, untuk mengelola pustaka dan paket yang digunakan dalam proyek mereka.
+
+### Kesimpulan
+
+PHP adalah bahasa pemrograman yang kuat dan fleksibel yang memainkan peran penting dalam pengembangan web modern. Dengan kemampuan untuk dengan mudah diintegrasikan dengan HTML, basis data, dan berbagai layanan lainnya, PHP tetap menjadi pilihan utama bagi banyak pengembang web di seluruh dunia. Baik Anda baru memulai dengan pemrograman web atau mencari cara untuk meningkatkan keahlian Anda, PHP menawarkan alat dan komunitas yang luas untuk mendukung Anda.

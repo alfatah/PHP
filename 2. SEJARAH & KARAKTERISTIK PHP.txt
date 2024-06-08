@@ -1,0 +1,35 @@
+## Sejarah PHP
+
+PHP, yang awalnya singkatan dari "Personal Home Page," dikembangkan oleh Rasmus Lerdorf pada tahun 1994. Lerdorf pada awalnya membuat PHP sebagai sekumpulan skrip Common Gateway Interface (CGI) dalam bahasa pemrograman C, yang ia gunakan untuk melacak pengunjung yang melihat resume online-nya. Seiring waktu, Lerdorf menambahkan lebih banyak fungsionalitas ke dalam skrip-skrip tersebut sehingga dapat berinteraksi dengan basis data dan memberikan kontrol yang lebih fleksibel terhadap halaman web. 
+
+Pada tahun 1995, Lerdorf merilis PHP/FI (Personal Home Page/Form Interpreter) sebagai perangkat lunak sumber terbuka, memungkinkan pengembang lain untuk menggunakan dan memperbaiki kode tersebut. Rilis ini menjadi cikal bakal berkembangnya komunitas PHP yang aktif.
+
+Pada tahun 1997, dua programmer, Zeev Suraski dan Andi Gutmans, merekonstruksi ulang inti PHP untuk meningkatkan performa dan modularitasnya. Hasil kerja mereka ini menjadi dasar dari PHP 3, yang kemudian dirilis pada tahun yang sama. Pada saat itu, akronim PHP diubah menjadi "PHP: Hypertext Preprocessor".
+
+PHP 4 diluncurkan pada tahun 2000, menggunakan mesin scripting yang disebut Zend Engine 1.0. PHP 4 memperkenalkan banyak fitur baru dan peningkatan performa.
+
+PHP 5 dirilis pada tahun 2004, didukung oleh Zend Engine II, dan memperkenalkan dukungan yang lebih baik untuk pemrograman berorientasi objek, peningkatan performa, serta sejumlah ekstensi baru.
+
+Versi terbaru PHP, PHP 7, dirilis pada tahun 2015. PHP 7 menawarkan peningkatan performa yang signifikan dibandingkan dengan versi sebelumnya, berkat penggunaan Zend Engine III. PHP 8, yang dirilis pada akhir tahun 2020, membawa peningkatan performa lebih lanjut, serta fitur-fitur baru seperti JIT (Just-in-Time) compiler.
+
+## Karakteristik PHP
+
+PHP memiliki sejumlah karakteristik yang membuatnya populer di kalangan pengembang web:
+
+1. **Sederhana dan Mudah Dipelajari**: Sintaks PHP mudah dipahami dan dipelajari, terutama bagi mereka yang sudah familiar dengan bahasa pemrograman seperti C, C++, atau Java.
+
+2. **Sumber Terbuka**: PHP adalah perangkat lunak sumber terbuka, yang berarti siapa saja dapat mengunduh, menggunakan, dan mengubahnya secara gratis. Ini juga memacu kontribusi dari komunitas pengembang yang besar.
+
+3. **Portabilitas**: PHP dapat dijalankan di berbagai sistem operasi seperti Windows, Linux, Unix, dan macOS. Ini membuat PHP menjadi pilihan yang fleksibel bagi pengembangan aplikasi web.
+
+4. **Ekstensibilitas**: PHP memiliki dukungan yang luas untuk berbagai basis data (seperti MySQL, PostgreSQL, Oracle), protokol jaringan, dan layanan lainnya. Selain itu, pengembang dapat memperluas fungsionalitas PHP dengan menulis ekstensi sendiri.
+
+5. **Integrasi Mudah dengan HTML**: PHP dapat disisipkan langsung ke dalam kode HTML, membuatnya mudah untuk menambahkan logika pemrograman ke dalam halaman web.
+
+6. **Performa Tinggi**: PHP dirancang untuk menghasilkan halaman web secara cepat dan efisien. Dengan adanya versi terbaru seperti PHP 7 dan PHP 8, performa PHP telah meningkat secara signifikan, membuatnya lebih cepat dalam memproses permintaan.
+
+7. **Komunitas Besar dan Dukungan**: PHP memiliki komunitas pengguna yang besar dan aktif. Ini berarti terdapat banyak sumber daya yang tersedia, termasuk dokumentasi, forum, tutorial, dan pustaka kode yang dapat membantu pengembang dalam mengatasi masalah atau mengembangkan aplikasi mereka.
+
+8. **Framework dan CMS**: PHP mendukung berbagai framework populer seperti Laravel, Symfony, dan CodeIgniter, yang membantu mempercepat pengembangan aplikasi dengan menyediakan struktur dan alat-alat yang diperlukan. Selain itu, banyak sistem manajemen konten (CMS) seperti WordPress, Drupal, dan Joomla dibangun menggunakan PHP, yang semakin memperluas ekosistem PHP.
+
+Dengan karakteristik-karakteristik ini, PHP telah menjadi salah satu bahasa pemrograman paling populer untuk pengembangan aplikasi web dan terus digunakan secara luas di seluruh dunia.
